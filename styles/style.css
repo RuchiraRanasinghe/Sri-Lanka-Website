@@ -1,0 +1,150 @@
+body{
+    background-color: #155263;
+    padding: 2%;
+}
+
+.h1Experience{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-family: DM Serif Text;
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.h1Gallery{
+    margin-top: 100px;
+    font-family: DM Serif Text;
+    font-size: 100px;
+    line-height: 60px;
+}
+
+.imgGallery{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.h1why{
+    margin-top: 100px;
+    font-family: DM Serif Text;
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.whySubDiv{
+    background-color: #f9b577;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.camIcon{
+    width: 30px;
+}
+
+.unforgetDiv{
+    margin-top: 100px;
+    width: 95%;
+}
+
+.unforgetTextDiv{
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.unforgetImg{
+    width: 90%;
+    border-radius: 5PX;
+}
+
+.unforgetTextHeading{
+    font-size: 25px;
+    line-height: 35px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.unforgetTextAuthor{
+    font-size: 12px;
+}
+
+.tableDiv{
+    align-items: center;
+    color: black;
+    background-color: rgb(146, 169, 188);
+    width: 95%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+
+.tableCaption{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+
+table{
+    width: 95%;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th{
+    border: 2px solid rgb(29, 101, 153); 
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    border: 2px solid rgb(41, 103, 197); 
+    padding: 10px;
+    text-align: left;
+}
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+}
+
+.footerDiv{
+    display: flex;
+}
+
+.FooterDiv1{
+    width: 70%;
+}
+
+.footerHeading{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.footerDesc{
+    color: white;
+    margin-bottom: 40px;
+    line-height: 30px;
+}
+
+.SMicons{
+    width: 30px;
+    margin-right: 15px;
+    margin-bottom: 80px;
+}
+
+.FooterDiv2{
+    width: 15%;
+}
+
+hr{
+    color: white;
+    margin-bottom: 30px;
+}
